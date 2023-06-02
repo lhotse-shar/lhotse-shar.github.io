@@ -1,0 +1,14 @@
+---
+layout: default
+title: Web
+has_children: true
+permalink: docs/web
+nav_order: 9
+---
+
+# Web 관련 포스팅
+{: .no_toc }
+
+Web 관련 포스트를 묶어 놓은 카테고리 입니다.
+
+{: .fs-6 .fw-300 }

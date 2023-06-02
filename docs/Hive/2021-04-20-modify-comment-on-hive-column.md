@@ -2,6 +2,7 @@
 layout: default
 title:  "hive 테이블 comment 수정하기"
 parent: Hive
+nav_order: 1
 ---
 
 * content
@@ -16,6 +17,7 @@ parent: Hive
 -  jdbc:hive2://...> ALTER TABLE temp.dayday_test_del_column CHANGE mem_no mem_no STRING COMMENT 'asdasd';
 
 <br>
+<br>
 
 # 1. beeline 접속
 
@@ -28,6 +30,7 @@ parent: Hive
 -  커멘드 앞에 이름이 막 jdbc, hive 어쩌구로 되어있어야됨
 -  그냥 beeline이라고 되어있으면 제대로 연결 안된거임
 
+<br>
 <br>
 
 # 2. 명령어 실행
