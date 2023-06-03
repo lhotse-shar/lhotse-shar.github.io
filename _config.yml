@@ -8,6 +8,10 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 aux_links_new_tab: true
 
+# To-Do: 로고 이미지 만들기
+# 로고 이미지 넣으니까 이미지로 완전히 대체되버림
+# logo: "/assets/images/lhotse-shar.jpg"
+
 favicon_ico: "/assets/images/favicon.ico"
 
 # plugins:
